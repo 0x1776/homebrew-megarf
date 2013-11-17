@@ -1,3 +1,7 @@
+# Interesting taps
+
+https://github.com/mxcl/homebrew/wiki/Interesting-Taps-%26-Branches
+
 
 # HackRF OSX Install
 
